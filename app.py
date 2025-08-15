@@ -108,7 +108,7 @@ if analisis_b:
             value = "{}%".format(round(correl[0,1]*100,1))
         )
 
-print('Hola Canelo!!')
+
 
     except:
         
